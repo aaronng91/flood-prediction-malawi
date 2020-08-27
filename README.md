@@ -1,4 +1,4 @@
-# Submission for Flood Prediction in Malawi competition on Zindi
+# Flood Prediction in Malawi
 
 Submission for UNICEF Arm 2030 Vision #1: Flood Prediction in Malawi on Zindi
 
